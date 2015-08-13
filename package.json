@@ -2,7 +2,7 @@
   "name": "sealious-datastore-file",
   "version": "0.1.0",
   "description": "Simple simplicity",
-  "main": "main.js",
+  "main": "datastore.file.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/Sealious/sealious-datastore-file.git"
