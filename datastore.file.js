@@ -5,8 +5,7 @@ var dot = require('dot-object'); //for transforming queries for easier parsing
 var merge = require("merge");
 var Promise = require("bluebird");
 
-//var Sealious = require("sealious");
-var Sealious = require("../Sealious/lib/main.js");
+var Sealious = require("sealious");
 
 var FileDatastore = new Sealious.ChipTypes.Datastore("file");
 
